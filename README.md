@@ -19,7 +19,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🔧 Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ruby,rails,git,github,figma,redis,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js,sass,ruby,rails,git,github,figma,redis,heroku)](https://skillicons.dev)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white)
 
 
