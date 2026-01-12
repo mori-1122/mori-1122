@@ -20,7 +20,6 @@
 [![Followers](https://badgen.org/img/qiita/Chiba_67/followers?style=for-the-badge)](https://qiita.com/Chiba_67)
 [![Articles](https://badgen.org/img/qiita/Chiba_67/articles?style=for-the-badge)](https://qiita.com/Chiba_67)
 
-🚀 Qiitaは、投稿開始から**毎週投稿** ＆ **毎月投稿継続中！** 📅
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
